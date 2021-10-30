@@ -6,13 +6,11 @@
 }
 .picname{
     color:violet;
-    /* text-align: center; */
+    
 }
 
 .prsnldtls{
     color: darkgoldenrod;
     
-    /* background-color: rgb(118, 201, 162); */
-    /* text-align: center; */
     text-shadow: palegreen;
 }
